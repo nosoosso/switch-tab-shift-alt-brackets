@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "switch-tab-shift-alt-brackets",
-  "version": "1.0",
+  "version": "0.1.0",
   "description": "Switch tab with Shift + Alt + [].",
   "content_scripts":[{
     "matches": ["<all_urls>"],
